@@ -29,6 +29,8 @@
 				<string>#0f2f4d</string>
 				<key>gutterForeground</key>
 				<string>#ff8300</string>
+				<key>minimapBorder</key>
+				<string>#ff8300</string>
 			</dict>
 		</dict>
 		<dict>
@@ -127,8 +129,10 @@
 			<string>string, meta.verbatim</string>
 			<key>settings</key>
 			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
 				<key>foreground</key>
-				<string>#f992ff</string>
+				<string>#0295CC</string>
 			</dict>
 		</dict>
 		<dict>
